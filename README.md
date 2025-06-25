@@ -25,6 +25,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
 
 ### Web Development:
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -56,11 +57,12 @@
 ## 📫 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/hazrat-ali-3b5966282/)
-- 🧑‍🎓 [LeetCode Profile](https://leetcode.com/) <!-- Add your actual profile link here -->
+- 🧑‍🎓 [LeetCode Profile](https://leetcode.com/u/hazratali_0x1/) 
 - 🌐 Portfolio: Coming Soon!
 
 ---
 
 _Thanks for visiting my profile!_ ✨
+
 
 
