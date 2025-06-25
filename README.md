@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/gZgmvHZ4/github-banner.png" alt="Hazrat Ali GitHub Banner" />
+  <img src="https://i.ibb.co/ycrVkj74/Navy-Blue-Modern-Business-Facebook-Cover.png" alt="Hazrat Ali GitHub Banner" />
 </p>
 
 <h1 align="center">Hi there, I'm Md. Hazrat Ali 👋</h1>
