@@ -47,7 +47,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="flex">
   <img src="https://github-readme-stats.vercel.app/api?username=Hazrat-Ali75&show_icons=true&theme=radical" alt="Hazrat Ali's GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hazrat-Ali75&theme=radical" alt="GitHub Streak Stats" />
