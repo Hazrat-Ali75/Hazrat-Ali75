@@ -77,13 +77,7 @@ _Thanks for visiting my profile!_ ✨
 
 
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/hazrat-ali-3b5966282/)
-- 🧑‍🎓 [LeetCode Profile](https://leetcode.com/u/hazratali_0x1/) 
-- 🌐 Portfolio: Coming Soon!
 
----
-
-_Thanks for visiting my profile!_ ✨
 
 
 
