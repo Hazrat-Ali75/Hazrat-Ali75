@@ -1,19 +1,66 @@
-## 👋 Hi there, I'm [Your Name]!
+<h1 align="center">Hi there, I'm Md. Hazrat Ali 👋</h1>
 
-I'm a passionate and motivated **Computer Science student at IUBAT**, currently focused on **web development**. I'm learning technologies like **HTML, CSS, JavaScript, React**, and plan to explore **Next.js, Node.js, and full-stack development**.
+<p align="center">
+  <em>
+    BSc in Computer Science & Engineering | IUBAT <br/>
+    MERN Stack Developer | Aspiring Django & Python Developer | Problem Solver
+  </em>
+</p>
 
-### 🌱 Currently Learning
-- React.js and modern frontend development
-- JavaScript fundamentals and DOM manipulation
-- Git & GitHub for version control
+---
 
-### 🎯 Career Goals
-I aim to become a **full-stack web developer** or **software developer**, building useful and meaningful applications. I’m constantly improving my skills and working on projects to grow my portfolio.
+## 🧑‍💻 About Me
 
-### 🚀 What I’m Working On
-- Building small web projects to practice frontend skills
-- Learning data structures and algorithms to strengthen my problem-solving skills
+- 🎓 I’m currently pursuing my **BSc in Computer Science and Engineering** from **IUBAT**, Dhaka.
+- 💻 I’m passionate about **Full Stack Web Development**, currently focused on the **MERN stack**.
+- 🐍 Currently learning **Python** and **Django** for back-end and API development.
+- 🧠 I solve problems regularly on **LeetCode** to improve my algorithmic thinking.
+- 🌱 Always learning and exploring **new technologies**, **open source**, and **best development practices**.
 
-### 📫 Let's Connect!
-Feel free to connect with me or check out my work here on GitHub. I’m always open to collaboration and learning from others.
+---
+
+## 🛠️ Skills & Tools
+
+### Languages:
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+
+### Web Development:
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+![DaisyUI](https://img.shields.io/badge/-DaisyUI-black?style=flat-square&logo=daisyui)
+
+### Tools & Platforms:
+![VS Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
+![Render](https://img.shields.io/badge/-Render-black?style=flat-square&logo=render)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hazratali&show_icons=true&theme=radical" alt="Hazrat's GitHub stats" width="50%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hazratali&theme=radical" width="48%"/>
+</p>
+
+---
+
+## 📫 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/hazrat-ali-3b5966282/)
+- 🧑‍🎓 [LeetCode Profile](https://leetcode.com/) <!-- Add your actual profile link here -->
+- 🌐 Portfolio: Coming Soon!
+
+---
+
+_Thanks for visiting my profile!_ ✨
+
 
