@@ -20,7 +20,6 @@
 - 🐍 Currently learning **Python** and **Django** for full-stack capabilities
 - 🔥 Exploring **Firebase** for real-time databases and authentication
 - 🧠 Regularly solving DSA problems on **LeetCode** to improve problem-solving skills
-- 📚 Open to contributing to open-source and collaborating on cool projects
 
 ---
 
