@@ -45,11 +45,14 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hazratali&show_icons=true&theme=radical" alt="Hazrat's GitHub stats" width="50%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hazratali&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hazrat-Ali75&show_icons=true&theme=radical" alt="Hazrat Ali's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hazrat-Ali75&theme=radical" alt="GitHub Streak Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazrat-Ali75&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
