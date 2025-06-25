@@ -57,7 +57,7 @@
 <p align="flex">
   <img src="https://github-readme-stats.vercel.app/api?username=Hazrat-Ali75&show_icons=true&theme=radical" alt="Hazrat Ali GitHub Stats" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Hazrat-Ali75&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Hazrat-Ali75" alt="GitHub Streak Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazrat-Ali75&layout=compact&theme=radical" alt="Top Languages" />
 </p>
