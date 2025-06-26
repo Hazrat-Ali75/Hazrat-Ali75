@@ -18,9 +18,8 @@
 - 🎓 Pursuing **BSc in Computer Science and Engineering** at **IUBAT**, Dhaka
 - 💻 Passionate about building dynamic web apps with **MERN stack**
 - 🐍 Currently learning **Python** and **Django** for full-stack capabilities
-- 🔥 Exploring **Firebase** for real-time databases and authentication
 - 🧠 Regularly solving DSA problems on **LeetCode** to improve problem-solving skills
-
+-     Exploring something new regularly
 ---
 
 ## 🛠️ Skills & Technologies
