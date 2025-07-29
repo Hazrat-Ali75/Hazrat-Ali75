@@ -30,6 +30,7 @@
 
 ### 🔷 Web Development:
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
@@ -37,7 +38,6 @@
 ![DaisyUI](https://img.shields.io/badge/-DaisyUI-black?style=flat-square&logo=daisyui)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 
 
 ### 🔧 Tools & Platforms:
