@@ -37,6 +37,8 @@
 ![DaisyUI](https://img.shields.io/badge/-DaisyUI-black?style=flat-square&logo=daisyui)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+
 
 ### 🔧 Tools & Platforms:
 ![VS Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
