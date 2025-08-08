@@ -13,12 +13,10 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Pursuing **BSc in Computer Science and Engineering** at **IUBAT**, Dhaka
-- 💻 Passionate about building dynamic web apps with **MERN stack**
-- 🐍 Currently learning **Python** and **Django** for full-stack capabilities
-- 🧠 Regularly solving DSA problems on **LeetCode** to improve problem-solving skills
--     Exploring something new regularly
----
+- 🎓 I'm currently pursuing a **Bachelor’s in Computer Science and Engineering** at **IUBAT**, Dhaka.
+- 💻 Passionate about **full-stack web development**, with hands-on experience in the **MERN stack** (MongoDB, Express.js, React, Node.js).
+- 🐍 Expanding my backend skills by learning **Python** and **Django** to build scalable, production-ready web applications.
+- 🚀 Always curious and committed to continuous learning — exploring new tools, technologies, and best practices in modern web development.
 
 ## 🛠️ Skills & Technologies
 
