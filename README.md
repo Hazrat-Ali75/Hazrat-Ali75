@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/Xrb33tLK/github-header-banner-1.png" alt="Banner" width="100%" />
+<img src="https://res.cloudinary.com/dshz64jtu/image/upload/v1764598407/github-header-banner_1_ong2mx.png" alt="Banner" width="100%" />
 
 <h1 align="center">Hi there, I'm Md. Hazrat Ali 👋</h1>
 
