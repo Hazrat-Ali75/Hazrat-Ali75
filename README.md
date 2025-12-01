@@ -5,9 +5,11 @@
 <p align="center">
   <em>
     BSc in Computer Science & Engineering | IUBAT <br/>
-    <marquee behavior="alternate" direction="left" scrollamount="4">
-     MERN & Next.js Developer | Backend Developer | Full Stack Developer |Problem Solver | Tech Enthusiast
-   </marquee>
+    <p align="center">
+     <marquee behavior="alternate" scrollamount="4">
+       MERN & Next.js Developer | Backend Developer | Full Stack Developer |Problem Solver | Tech Enthusiast
+     </marquee>
+   </p>
   </em>
 </p>
 
