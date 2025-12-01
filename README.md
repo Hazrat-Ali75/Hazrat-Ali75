@@ -95,7 +95,7 @@
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/hazrat-ali-3b5966282  
 - 🧠 **LeetCode:** https://leetcode.com/u/hazratali_0x1  
 - 📧 **Email:** hazratali515a@gmail.com  
-- 📱 **Phone:** +8801777408046  
+- 📱 **Phone:** +8801885862840  
 
 ---
 
