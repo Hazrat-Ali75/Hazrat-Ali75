@@ -5,40 +5,50 @@
 <p align="center">
   <em>
     BSc in Computer Science & Engineering | IUBAT <br/>
-    MERN Stack Developer | Django Learner | Problem Solver
+    MERN & Next.js Developer | Backend Developer | Full Stack Developer |Problem Solver | Tech Enthusiast
   </em>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About Me  
 
-- 🎓 I'm currently pursuing a **Bachelor’s in Computer Science and Engineering** at **IUBAT**, Dhaka.
-- 💻 Passionate about **full-stack web development**, with hands-on experience in the **MERN stack** (MongoDB, Express.js, React, Node.js).
-- 🐍 Expanding my backend skills by learning **Python** and **Django** to build scalable, production-ready web applications.
-- 🚀 Always curious and committed to continuous learning — exploring new tools, technologies, and best practices in modern web development.
+- 🎓 Pursuing **BSc in Computer Science & Engineering** at **IUBAT**, Dhaka.  
+- ⚡ Passionate about **Full-Stack Web Development**, focusing on **React, Next.js, Node.js, Express.js & MongoDB/PostgreSQL**.  
+- 📘 Actively learning and building projects with **TypeScript**, improving code quality and scalability.  
+- 🚀 **Eager to learn and adopt new technologies quickly**, always looking for better ways to build modern, efficient applications.  
+- ✨ Familiar with multiple programming languages including **C, C++, Java, C#, and Python**.  
+- 🔥 Strong interest in writing clean code, backend development, and solving real-world problems through software.  
 
-## 🛠️ Skills & Technologies
 
-### 🔷 Languages:
+## 🛠️ Skills & Technologies  
+
+### 🔷 Languages  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=database)
 
-### 🔷 Web Development:
+### 🔷 Web Development  
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma)
+![DrizzleORM](https://img.shields.io/badge/-DrizzleORM-black?style=flat-square&logo=drizzle)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+![ShadCN](https://img.shields.io/badge/-ShadCN_UI-black?style=flat-square&logo=shadcnui)
+![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe)
 ![DaisyUI](https://img.shields.io/badge/-DaisyUI-black?style=flat-square&logo=daisyui)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
 
-
-### 🔧 Tools & Platforms:
+### 🔧 Tools & Platforms  
 ![VS Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
@@ -48,32 +58,26 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
 <p align="flex">
   <img src="https://github-readme-stats.vercel.app/api?username=Hazrat-Ali75&show_icons=true&theme=radical" alt="Hazrat Ali GitHub Stats" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=Hazrat-Ali75" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Hazrat-Ali75&theme=radical" alt="GitHub Streak Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazrat-Ali75&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect with Me  
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/hazrat-ali-3b5966282/)
-- 🧠 [LeetCode](https://leetcode.com/u/hazratali_0x1/) 
-- 📧 Email: hazratali515a@gmail.com
-- 📱 Phone: +8801777408046
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/hazrat-ali-3b5966282  
+- 🧠 **LeetCode:** https://leetcode.com/u/hazratali_0x1  
+- 📧 **Email:** hazratali515a@gmail.com  
+- 📱 **Phone:** +8801777408046  
 
 ---
-
-_Thanks for visiting my profile!_ ✨  
-
-
-
-
 
 
 
