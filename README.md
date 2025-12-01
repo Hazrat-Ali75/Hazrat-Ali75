@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/fdjXL0pq/Black-and-Red-Gradient-Professional-Linked-In-Banner-1.png" alt="Banner" width="100%" />
+<img src="https://i.ibb.co/Xrb33tLK/github-header-banner-1.png" alt="Banner" width="100%" />
 
 <h1 align="center">Hi there, I'm Md. Hazrat Ali 👋</h1>
 
