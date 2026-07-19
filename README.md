@@ -7,7 +7,7 @@
     BSc in Computer Science & Engineering | IUBAT <br/>
     <p align="center">
      <marquee behavior="alternate" scrollamount="4">
-       MERN & Next.js Developer | Backend Developer | Full Stack Developer |Problem Solver | Tech Enthusiast
+       MERN , Next.js, NestJs Developer | Backend Developer | Full Stack Developer |Problem Solver | Tech Enthusiast
      </marquee>
    </p>
   </em>
@@ -18,7 +18,7 @@
 ## 🧑‍💻 About Me  
 
 - 🎓 Pursuing **BSc in Computer Science & Engineering** at **IUBAT**, Dhaka.  
-- ⚡ Passionate about **Full-Stack Web Development**, focusing on **React, Next.js, Node.js, Express.js & MongoDB/PostgreSQL**.  
+- ⚡ Passionate about **Full-Stack Web Development**, focusing on **React, Next.js, Node.js, Express.js, NestJs & MongoDB/PostgreSQL, Prisma, Drizzle ORM**.  
 - 📘 Actively learning and building projects with **TypeScript**, improving code quality and scalability.  
 - 🚀 **Eager to learn and adopt new technologies quickly**, always looking for better ways to build modern, efficient applications.  
 - ✨ Familiar with multiple programming languages including **C, C++, Java, C#, and Python**.  
