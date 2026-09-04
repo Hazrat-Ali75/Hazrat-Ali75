@@ -4,7 +4,6 @@
 
 <p align="center">
   <em>
-    BSc in Computer Science & Engineering | IUBAT <br/>
     <p align="center">
      <marquee behavior="alternate" scrollamount="4">
        MERN , Next.js, NestJs Developer | Backend Developer | Full Stack Developer |Problem Solver | Tech Enthusiast
@@ -17,7 +16,7 @@
 
 ## 🧑‍💻 About Me  
 
-- 🎓 Pursuing **BSc in Computer Science & Engineering** at **IUBAT**, Dhaka.  
+- 🎓 Students of Computer Science and Engineering.  
 - ⚡ Passionate about **Full-Stack Web Development**, focusing on **React, Next.js, Node.js, Express.js, NestJs & MongoDB/PostgreSQL, Prisma, Drizzle ORM**.  
 - 📘 Actively learning and building projects with **TypeScript**, improving code quality and scalability.  
 - 🚀 **Eager to learn and adopt new technologies quickly**, always looking for better ways to build modern, efficient applications.  
@@ -37,11 +36,12 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=database)
 
-### 🔷 Web Development  
+### 🔷 Frameworks  
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma)
@@ -51,7 +51,6 @@
 ![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe)
 ![DaisyUI](https://img.shields.io/badge/-DaisyUI-black?style=flat-square&logo=daisyui)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-
 ### 🔧 Tools & Platforms  
 ![VS Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
